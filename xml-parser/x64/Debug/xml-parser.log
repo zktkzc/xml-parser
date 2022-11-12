@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\Project\C\C++\XML解析器\xml-parser\xml-parser\Xml.h(109,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Parser.cpp
+E:\Project\C\C++\XML解析器\xml-parser\xml-parser\Xml.h(109,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\C\C++\XML解析器\xml-parser\xml-parser\Parser.cpp(84,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\C\C++\XML解析器\xml-parser\xml-parser\Parser.cpp(101,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\C\C++\XML解析器\xml-parser\xml-parser\Parser.cpp(148,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Xml.cpp
+E:\Project\C\C++\XML解析器\xml-parser\xml-parser\Xml.h(109,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\C\C++\XML解析器\xml-parser\xml-parser\Xml.cpp(285,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\C\C++\XML解析器\xml-parser\xml-parser\Xml.cpp(338,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  xml-parser.vcxproj -> E:\Project\C\C++\XML解析器\xml-parser\x64\Debug\xml-parser.exe
